@@ -1,0 +1,21 @@
+## Instale a extenção REST Client - REST Client for Visual Studio Code - Huachao Mao
+## Para executar Ctrl + Alt + R
+
+### Host
+GET http://localhost:3500/api/v1/produtos HTTP/1.1
+
+
+### Cadastro de Produto
+POST http://localhost:3500/api/v1/produtos HTTP/1.1
+Content-Type: application/json
+
+[
+  {
+    "codigo_interno": "    33",
+    "SKU": "KIT MT DAKOTA",
+    "descricao": "KIT MT DODGE DAKOTA 2.5 DIESEL(JOGO)",
+    "fornecedor": "METAL LEVE",
+    "saldo": "      0",
+    "preco_operacional": "       218,21"
+  }
+]
