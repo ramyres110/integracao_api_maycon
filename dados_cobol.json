@@ -1,0 +1,37 @@
+[
+  {
+    "codigo_interno": "    27",
+    "SKU": "KIT MT DAKOTA",
+    "descricao": "KIT MT DODGE DAKOTA 2.5 DIESEL(JOGO)",
+    "fornecedor": "METAL LEVE",
+    "saldo": "      0",
+    "preco_operacional": "       218,21"
+  },
+
+  {
+    "SKU": "KIT MT DAKOTA",
+    "codigo_interno": "    28",
+    "descricao": "KIT MT DODGE DAKOTA 2.5 DIESEL(JOGO)",
+    "fornecedor": "METAL LEVE",
+    "preco_operacional": "       218,21",
+    "saldo": "      0"
+  },
+
+  {
+    "codigo_interno": "    29",
+    "SKU": "KIT MT DAKOTA",
+    "descricao": "KIT MT DODGE DAKOTA 2.5 DIESEL(JOGO)",
+    "fornecedor": "METAL LEVE",
+    "saldo": "      0",
+    "preco_operacional": "       218,21"
+  },
+
+  {
+    "codigo_interno": "    30",
+    "SKU": "KIT MT DAKOTA",
+    "descricao": "KIT MT DODGE DAKOTA 2.5 DIESEL(JOGO)",
+    "fornecedor": "METAL LEVE",
+    "saldo": "      0",
+    "preco_operacional": "       218,21"
+  }
+]
